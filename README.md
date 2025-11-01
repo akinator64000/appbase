@@ -1,4 +1,4 @@
-AppBase
+test AppBase
 --------------
 
 The AppBase library provides a basic framework for building applications from
